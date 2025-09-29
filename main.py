@@ -16,11 +16,11 @@ pd.set_option("styler.render.max_elements", 4393590)
 st.set_page_config(page_title="Backtest Saham", layout="wide", initial_sidebar_state="expanded")
 
 
-st.title('Backtest Saham Indonesia🔥📈')
+st.title('Backtest Saham Indonesia')
 st.markdown(
     """
-    Selamat datang di platform BacktestSaham! 🎉📊
-Website ini dirancang khusus untuk membantu kamu mengevaluasi performa berbagai indikator teknikal terhadap saham-saham Indonesia selama 10 tahun terakhir. Dengan dashboard interaktif ini, kamu dapat mengeksplorasi, menyaring (filter), dan mengurutkan hasil backtest berdasarkan berbagai metrik seperti Sharpe Ratio, Max Drawdown, Win Rate, Profit Factor, dan banyak lagi. Tersedia juga preset filter seperti “Long Term” untuk mempercepat proses pencarian strategi yang sesuai. Hasil dari 50.000 simulasi backtest akan membantumu menemukan parameter terbaik yang paling sesuai dengan gaya trading dan toleransi risiko kamu.
+    Selamat datang di platform BacktestSaham! 
+    Website ini dirancang khusus untuk membantu anda mengevaluasi performa berbagai indikator teknikal terhadap saham-saham Indonesia selama 10 tahun terakhir. Dengan dashboard interaktif ini, anda dapat mengeksplorasi, menyaring (filter), dan mengurutkan hasil backtest berdasarkan berbagai metrik seperti Sharpe Ratio, Max Drawdown, Win Rate, Profit Factor, dan banyak lagi. Tersedia juga preset filter seperti “Long Term” untuk mempercepat proses pencarian strategi yang sesuai. Hasil dari 50.000 simulasi backtest akan membantumu menemukan parameter terbaik yang paling sesuai dengan gaya trading dan toleransi risiko anda.
     """
 )
 
