@@ -75,7 +75,7 @@ with st.sidebar.form("form_key"):
     selected_filter = st.selectbox(
         "Select Preset Filters",
         options=pre_defined_filters.keys(),
-        help="Choose a pre-defined filter or start with no filter."
+        help="Click Apply Changes to apply selected filter"
     )
 
     filters = pre_defined_filters[selected_filter]
